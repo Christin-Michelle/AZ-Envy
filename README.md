@@ -18,6 +18,14 @@ https://www.az-delivery.de/en/blogs/azdelivery-blog-fur-arduino-und-raspberry-pi
 
 Ansonsten ist die Implementierung ziemlich geradeaus. Vorbereiten der Devices und Treiber im Setup sowie zyklisches Auslesen der Werte und senden im Loop.
 
+Letztlich wurde noch ein Gehäuse designed mit dem sich das ganze an der Wand befestigen lässt.
+
+https://www.thingiverse.com/thing:6706285
+
+
+
+
+
 A simple impelmentation of the MQTT client on the basis of AZ Envy. Every other second values are measured and send to the server via MQTT.
 
 Mainly the following libraries are used:
@@ -33,3 +41,7 @@ I used so following link as well es the included ebook from AZ Delivery
 https://www.az-delivery.de/en/blogs/azdelivery-blog-fur-arduino-und-raspberry-pi/az-envy-das-etwas-andere-micro-controller-board
 
 Besides that the implementation is pretty much straigt forward. The devices and software is prepared in the setup sectopm and the values are read and sent in the loop.
+
+Finally a case was designed to afix this to the wall.
+
+https://www.thingiverse.com/thing:6706285
