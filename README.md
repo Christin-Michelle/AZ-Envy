@@ -22,7 +22,11 @@ Letztlich wurde noch ein Gehäuse designed mit dem sich das ganze an der Wand be
 
 https://www.thingiverse.com/thing:6706285
 
+Wichtig wäre noch zu Erwähnen dass der AZ Envy eine etwas ungewöhnliche Anschlusskonfiguration hat. Zum Flashen ist es notwendig diesem über USB mit Strom zu versorgen, jedoch mittels eines USB zu Serial Adapters die Daten zu übertragen.
 
+VORSICHT 3,3V Pegel einstellen sonst wird der Chip geröstet!
+
+Ferner hat der Chip die Besonderheit, dass TX auf TX und RX auf RX angeschlossen werden muss damit es funktioniert.
 
 
 
@@ -45,3 +49,9 @@ Besides that the implementation is pretty much straigt forward. The devices and 
 Finally a case was designed to afix this to the wall.
 
 https://www.thingiverse.com/thing:6706285
+
+Also important would be to mention that the AZ Envy has a little a unusual conncetion configuration. To falsh it it is necessary to suplly power via the integrated USB port but to send data with a USB to serial adapter.
+
+CAUTION: Set your adapter to 3,3V otherwise you'll rost the Chip.
+
+Last but not least the AZ Envy has the specialty that you need to connect the TX to TX and the RX to RX in order to have the transfer working.
