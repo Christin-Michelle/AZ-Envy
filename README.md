@@ -6,7 +6,9 @@ Eine einfache Implementierung eines MQTT Clients auf Basis des AZ Envy. Es werde
 Es werden in der Hauptsache folgende Bibliotheken verwendet:
 
 https://github.com/Risele/SHT3x
+
 https://github.com/plapointe6/EspMQTTClient
+
 https://github.com/labay11/MQ-2-sensor-library
 
 
@@ -21,7 +23,9 @@ A simple impelmentation of the MQTT client on the basis of AZ Envy. Every other 
 Mainly the following libraries are used:
 
 https://github.com/Risele/SHT3x
+
 https://github.com/plapointe6/EspMQTTClient
+
 https://github.com/labay11/MQ-2-sensor-library
 
 I used so following link as well es the included ebook from AZ Delivery
